@@ -1,0 +1,17 @@
+{
+  "name": "freelancefrivas/elegendz",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Fernando",
+      "email": "freelance.frivas@gmail.com"
+    }
+  ],
+  "require": {
+    "bramus/router": "~1.6",
+    "google/apiclient": "2.12.1",
+    "stripe/stripe-php": "^7.124"
+  }
+}

@@ -1,0 +1,46 @@
+
+
+.vsTimeline {
+	
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid #eac117;
+
+}
+
+.battleName {
+	
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+
+.vswatchLeftColumn {
+flex: 1;
+
+}
+
+.vswatchLeftColumn .videoPlayer {
+width: 100%;	
+}
+
+.vswatchRightColumn {
+	flex: 1;
+	position: right;
+}
+
+.vswatchRightColumn .videoPlayer {
+width: 100%;
+padding-left: 24px;
+
+}
+
+
+
+
+
